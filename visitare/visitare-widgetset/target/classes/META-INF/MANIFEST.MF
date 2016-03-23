@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Vaadin-Widgetsets: com.primeit.visitare.VisitareAppWidgetset
+Vaadin-Package-Version: 1
+Built-By: PrimeIT
+Build-Jdk: 1.8.0_65
+Created-By: Maven Integration for Eclipse
+
